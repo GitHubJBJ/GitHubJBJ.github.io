@@ -1,6 +1,6 @@
 # VBlog
-![](https://img.shields.io/github/languages/top/github-laziji/VBlog.svg?style=flat)
-![](https://img.shields.io/github/stars/gitHub-laziji/VBlog.svg?style=social)
+![](https://img.shields.io/github/languages/top/githubJBJ/VBlog.svg?style=flat)
+![](https://img.shields.io/github/stars/githubJBJ/VBlog.svg?style=social)
 
 ## 目录
 - [简介](#简介)
@@ -19,10 +19,10 @@
 
 
 ## 演示地址
-[https://github-laziji.github.io][1]
+[https://githubJBJ.github.io][1]
 
 ## 项目源码
-[https://github.com/GitHub-Laziji/vblog][3]
+[https://github.com/githubJBJ/vblog][3]
 
 ## 项目特点
 
@@ -90,7 +90,7 @@
 类似演示地址其中 GitHub-Laziji 为我的用户名
 
 
-现在 ```https://你的用户名.github.io``` 就是你的个人博客了,例如[https://github-laziji.github.io][1]
+现在 ```https://你的用户名.github.io``` 就是你的个人博客了,例如[https://githubJBJ.github.io][1]
 
 
 
@@ -102,10 +102,10 @@
 ------
 
 
-作者 *Laziji*
+作者 *Bojun Jiang*
 
 
 
-  [1]: https://github-laziji.github.io
-  [2]: https://github.com/GitHub-Laziji/GitHub-Laziji.github.io
-  [3]: https://github.com/GitHub-Laziji/vblog
+  [1]: https://githubJBJ.github.io
+  [2]: https://github.com/githubJBJ/githubJBJ.github.io
+  [3]: https://github.com/githubJBJ/vblog
